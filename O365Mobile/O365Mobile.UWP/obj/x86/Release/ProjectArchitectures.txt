@@ -1,0 +1,2 @@
+C:\Users\ted.wagner\documents\visual studio 2017\Projects\O365Mobile\O365Mobile\O365Mobile.UWP\O365Mobile.UWP.csproj;x86
+C:\Users\ted.wagner\documents\visual studio 2017\Projects\O365Mobile\O365Mobile\O365Mobile\O365Mobile.csproj;neutral
